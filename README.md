@@ -137,21 +137,15 @@ The Streamlit web app provides:
 Job Role
 
 Experience Level
-
 Employment Type
-
 Location
-
 Remote Ratio
-
 Company Size
 
 🔹 Outputs:
 
 💰 Predicted Salary
-
 🏆 Top 5 Recommended Companies
-
 It enables real-time interaction and smooth inference.
 
 📈 Power BI Dashboard Features
@@ -159,92 +153,75 @@ It enables real-time interaction and smooth inference.
 The Power BI dashboard provides interactive global insights (2020–2025):
 
 Filters Available:
-
 Company Location
-
 Experience Level
-
 Employment Type
-
 Company Size
-
 Remote Ratio
-
 Work Year
-
 Job Title
 
 Visual Insights:
 
 🌍 Country-wise salary map
-
 📊 Salary by experience level
-
 🏢 Salary by company size
-
 📅 Salary trend over time
-
 💼 Top-paying job titles
-
 🌐 Global salary distribution
 
 📊 Key Analytical Insights
 💼 Salary by Employment Type
 
 Full-time roles offer highest average salaries
-
 Freelancers & part-time earn comparatively less
 
 📈 Salary by Experience
 
 Strong positive correlation between experience and salary
-
 Senior roles command premium compensation
 
 🌍 Global Trends
 
 USA & Israel lead in salary averages
-
 North America & Western Europe dominate high salary zones
-
 Developing regions show lower compensation levels
 
 🏢 Company Size Impact
 
 Medium-sized companies offer highest average pay
-
 Small companies show higher variability
 
 🏠 Remote Work Impact
 
 Fully remote roles offer competitive compensation
-
 Remote work does not reduce salary significantly
 
+## 📊 Streamlit Dashboard
+
+![Streamlit Dashboard](assets/images/streamlit_dashboard.png)
+
+---
+
+## 📈 Power BI Dashboard
+
+![Power BI Dashboard](assets/images/powerbi_dashboard.png)
 
 📌 Applications
 
 🎓 Career Planning for Students
-
 💼 Salary Negotiation Support
-
 🏢 HR Salary Benchmarking
-
 🌍 Global Market Trend Analysis
-
 📊 Workforce Planning & Policy Insights
+
 
 🔮 Future Enhancements
 
 Deep learning models for improved prediction
-
 Skill-based salary modeling
-
 Real-time API data integration
-
 Enhanced company recommendation scoring
-
 Multilingual dashboard support
-
 Full-scale web deployment
 
