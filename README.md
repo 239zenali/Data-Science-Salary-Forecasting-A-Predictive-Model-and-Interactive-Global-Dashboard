@@ -197,16 +197,6 @@ Small companies show higher variability
 Fully remote roles offer competitive compensation
 Remote work does not reduce salary significantly
 
-## 📊 Streamlit Dashboard
-
-![Streamlit Dashboard](assets/images/streamlit dashboard.png)
-
----
-
-## 📈 Power BI Dashboard
-
-![Power BI Dashboard](assets/images/powerbi dashboard.png)
-
 📌 Applications
 
 🎓 Career Planning for Students
