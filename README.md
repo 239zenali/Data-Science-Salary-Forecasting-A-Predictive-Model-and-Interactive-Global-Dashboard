@@ -199,13 +199,13 @@ Remote work does not reduce salary significantly
 
 ## 📊 Streamlit Dashboard
 
-![Streamlit Dashboard](assets/images/streamlit_dashboard.png)
+![Streamlit Dashboard](assets/images/streamlit dashboard.png)
 
 ---
 
 ## 📈 Power BI Dashboard
 
-![Power BI Dashboard](assets/images/powerbi_dashboard.png)
+![Power BI Dashboard](assets/images/powerbi dashboard.png)
 
 📌 Applications
 
